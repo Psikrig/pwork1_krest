@@ -1,0 +1,15 @@
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest.csproj.AssemblyReference.cache
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\MainWindow.g.cs
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\App.g.cs
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest_MarkupCompile.cache
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest_MarkupCompile.lref
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\bin\Debug\c3_pwork1_krest.exe.config
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\bin\Debug\c3_pwork1_krest.exe
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\bin\Debug\c3_pwork1_krest.pdb
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\MainWindow.baml
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest.g.resources
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest.Properties.Resources.resources
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest.csproj.GenerateResource.cache
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest.csproj.CoreCompileInputs.cache
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest.exe
+D:\библиотека\код\csharp\c3_pwork1_krest\c3_pwork1_krest\obj\Debug\c3_pwork1_krest.pdb
